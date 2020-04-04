@@ -2,17 +2,19 @@
 
 ## About  <Synopsis>
 
-> * Theroy notebook. <Abstract>
-> * Project status: Active.  <Status>
+* Theroy notebook. <Abstract>
+* Project status: Active.  <Status>
 
 ## Table of contents
->  1. Basic securities,
->  2. Call an Put options.
->  3. Brownian Motion Process. 
->  4. Stochastic Differential Equation.
+1. Basic securities,
+2. Call an Put options.
+3. Brownian Motion Process. 
+4. Stochastic Differential Equation.
 
 ### Requirements
-> * Mathematica v12.
+![sdfs]"https://github.com/zz37/Option-Pricing-Theory/blob/master/Icons/3d.png"
+
+* Mathematica v12.
 
 ## Contributing  <Reporting issues>
   <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
