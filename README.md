@@ -30,6 +30,5 @@ To contribute to <project_name>, follow these steps:
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
 
-## License ![Hex.pm](https://img.shields.io/hexpm/l/plug?color=orange&label=License&style=flat-square)
-
+## License
 ![Apache License, Version 2.0](https://img.shields.io/hexpm/l/plug?color=orange&label=License&style=flat-square)
