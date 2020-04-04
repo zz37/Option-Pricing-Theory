@@ -11,14 +11,19 @@
 >  3. Brownian Motion Process. 
 >  4. Stochastic Differential Equation.
 
-<a href="#" class="button pill">This is a pill button</a>
-
 ### Requirements
 > * Mathematica v12.
 
 ## Contributing  <Reporting issues>
-
+  <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 Contribution is welcomed on component (or project if there is no component for that project).
+To contribute to <project_name>, follow these steps:
+
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
 
 ## License
 
