@@ -12,9 +12,10 @@
 4. Stochastic Differential Equation.
 
 ### Requirements
-![sdfs]"https://github.com/zz37/Option-Pricing-Theory/blob/master/Icons/3d.png"
-
-* Mathematica v12.
+<p>
+    <img src="Icons/3d.png" width="30" height="30" />
+Mathematica v12.
+</p>
 
 ## Contributing  <Reporting issues>
   <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
