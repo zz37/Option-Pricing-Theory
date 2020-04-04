@@ -19,7 +19,6 @@
 Mathematica v12.
 </p>
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)]
 ## Contributing  <Reporting issues>
   <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 Contribution is welcomed on component (or project if there is no component for that project).
@@ -32,4 +31,5 @@ To contribute to <project_name>, follow these steps:
 5. Create the pull request.
 
 ## License ![Hex.pm](https://img.shields.io/hexpm/l/plug?color=orange&label=License&style=flat-square)
-![Apache License, Version 2.0]](https://img.shields.io/hexpm/l/plug?color=orange&label=License&style=flat-square)
+
+![Apache License, Version 2.0](https://img.shields.io/hexpm/l/plug?color=orange&label=License&style=flat-square)
