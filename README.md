@@ -11,11 +11,7 @@
 >  3. Brownian Motion Process. 
 >  4. Stochastic Differential Equation.
 
-<a href="#" class="button">This is a Button</a>
-
-<button class="button">This is a Button</button>
-
-<a href="#" class="pill button">This is a Pill Button</a>
+<a href="#" class="button pill">This is a pill button</a>
 
 ### Requirements
 > * Mathematica v12.
