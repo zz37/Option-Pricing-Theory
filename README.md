@@ -1,5 +1,5 @@
 # Option Pricing Theory <Repository Name>
-    *Contents are subject to copyright.
+### Contents are subject to copyright.
     
 ## About  <Synopsis>
 
