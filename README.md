@@ -15,10 +15,7 @@
 4. Stochastic Differential Equation.
 
 ### Requirements
-<p>
-    <img src="Icons/3d.png" width="30" height="30" />
-Mathematica v12.
-</p>
+![Version](https://img.shields.io/static/v1?message=Wolfram_L.V12&style=plastic&logo=wolfram&labelColor=ffffff&color=de1709&logoWidth=40&logoColor=red&label=%20)<Version>
 
 ## Contributing  <Reporting issues>
   <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
